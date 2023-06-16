@@ -1,2 +1,2 @@
-# SPI_pub
-[test]https://gillensegrav.github.io/SPI_pub/)https://gillensegrav.github.io/SPI_pub/
+# SPI Data Dictionary
+The SPI Data Dictionary can be found here:
